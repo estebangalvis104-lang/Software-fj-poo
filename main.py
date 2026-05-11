@@ -1,7 +1,7 @@
 from cliente import Cliente
 from sala import ReservaSala
 from reserva import Reserva
-df
+
 try:
 
     cliente1 = Cliente(
